@@ -1,0 +1,9 @@
+{
+    "token":"YOUR_BOT_TOKEN_GOES_HERE",
+    "prefix":".",
+        
+    "TIMEOUT":120000,
+    "NUMDICE":6,
+    "NUMSIDES":6,
+    "REROLL":5
+}
